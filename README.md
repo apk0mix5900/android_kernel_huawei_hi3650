@@ -33,7 +33,7 @@ He had no idea that this "just a hobby" project would, more than thirty years la
 
 A NetHunter kernel = **the original Android Linux kernel, with the extra drivers and configuration needed by Kali NetHunter added on top**, giving the phone penetration-testing capabilities.
 
-> 📖 For more background on the Linux kernel (Linus's story, the kernel 4.x build process, cross-compilation toolchain notes, etc.), see [`README-linux.md`](./README-linux.md).
+> 📖 For more background on the Linux kernel (Linus's story, the kernel 4.x build process, cross-compilation toolchain notes, etc.), see [`README-linux`](./README-linux).
 
 ## What is Kali NetHunter?
 
