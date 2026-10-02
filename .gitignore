@@ -1,0 +1,24 @@
+# Build artifacts
+*.o
+*.ko
+*.mod
+*.mod.c
+*.cmd
+*.symvers
+*.order
+*.tmp
+*~
+.tmp_versions/
+.version
+.scmversion
+
+# Out-of-tree builds
+/out/
+/out-*/
+/out_*/
+
+# Editor
+.DS_Store
+*.swp
+*.swo
+*.bak

@@ -1,0 +1,15 @@
+# build artifacts
+*.o
+*.ko
+*.mod
+*.mod.c
+*.cmd
+*.symvers
+*.order
+.tmp_versions/
+*.tmp
+*~
+
+# editor / OS
+.DS_Store
+*.swp
